@@ -18,7 +18,7 @@ LDA is an unsupervised machine learning algorithm particularly suitable for docu
 * Probabilistic distribution modeling: Each document (accident report) contains probability distributions over multiple topics
 * Keyword extraction: Generate most relevant keywords for each topic to facilitate understanding of accident characteristics
 
-Core Functions
+# Core Functions
 1. `find_optimal_topics()`
 Determines the optimal number of topics using perplexity and coherence metrics.
 
